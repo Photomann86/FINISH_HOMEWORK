@@ -7,7 +7,7 @@
 string[] firstMassiv = new string[5] {"7890", "hello", "01", "Hi", "765"}; //создание массива строк
 string[] secondMassiv = new string[firstMassiv.Length];
 //метод выбора строк с количеством символов не более 3
-void SecondArray(string[] firstMassiv, string[] secondMasiv)
+void SecondArray(string[] firstMassiv, string[] secondMassiv)
 {
     int count = 0;
     for (int i=0; i<firstMassiv.Length; i++)
