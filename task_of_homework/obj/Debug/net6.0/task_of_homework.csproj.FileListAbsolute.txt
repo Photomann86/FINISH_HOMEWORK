@@ -1,0 +1,15 @@
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/bin/Debug/net6.0/task_of_homework
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/bin/Debug/net6.0/task_of_homework.deps.json
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/bin/Debug/net6.0/task_of_homework.runtimeconfig.json
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/bin/Debug/net6.0/task_of_homework.dll
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/bin/Debug/net6.0/task_of_homework.pdb
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/task_of_homework.csproj.AssemblyReference.cache
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/task_of_homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/task_of_homework.AssemblyInfoInputs.cache
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/task_of_homework.AssemblyInfo.cs
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/task_of_homework.csproj.CoreCompileInputs.cache
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/task_of_homework.dll
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/refint/task_of_homework.dll
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/task_of_homework.pdb
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/task_of_homework.genruntimeconfig.cache
+/Users/ivanchevardin/Finish homework/Homeworks/FINISH_HOMEWORK/task_of_homework/obj/Debug/net6.0/ref/task_of_homework.dll
